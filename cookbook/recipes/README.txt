@@ -1,0 +1,1 @@
+Information how to use the cookbook.
